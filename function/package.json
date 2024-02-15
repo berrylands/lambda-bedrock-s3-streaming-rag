@@ -2,6 +2,7 @@
   "name": "streaming-rag-lambda",
   "version": "1.0.0",
   "dependencies": {
+    "@aws-crypto/sha256-js": "^5.2.0",
     "@lancedb/vectordb-linux-x64-gnu": "^0.3.5",
     "@langchain/community": "^0.0.28",
     "langchain": "^0.1.18",
